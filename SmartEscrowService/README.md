@@ -61,7 +61,7 @@ Before you begin, ensure you have the following installed:
 
 -----
 
-## ▶️ Running the Project Locally
+## ▶️ Running the Project Locally on you device
 
 You'll need two terminals open to run the full application.
 
