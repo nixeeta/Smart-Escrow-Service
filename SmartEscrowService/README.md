@@ -42,10 +42,7 @@ Ensure you have the following installed:
 
 ---
 
-### **2. Clone the Repository**
-```bash
-git clone https://github.com/yourusername/SmartEscrowService.git
-cd SmartEscrowService
+
 
 ## Contract Address 0xC34299C647118742556380d8D208D2660275ce5C
 <img width="1831" height="844" alt="image" src="https://github.com/user-attachments/assets/03160f83-271c-4739-8c95-203b1c1e5479" />
